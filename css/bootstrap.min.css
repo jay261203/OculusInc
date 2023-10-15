@@ -668,7 +668,6 @@ pre code {
 .container {
     width: 100%;
     padding-right: 15px;
-    padding-left: 15px;
     margin-right: auto;
     margin-left: auto
 }
@@ -709,9 +708,10 @@ pre code {
     display: -ms-flexbox;
     display: flex;
     text-align: center;
-    justify-content: center;
+    justify-content:flex-start;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
+    padding: 20px;
     margin-right: -15px;
     margin-left: -15px
 }
@@ -801,7 +801,7 @@ pre code {
     width: 100%;
     min-height: 1px;
     padding-right: 15px;
-    padding-left: 15px
+    padding-left: 50px;
 }
 
 .col {

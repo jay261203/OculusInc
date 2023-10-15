@@ -2211,7 +2211,7 @@ body{
 }
 /* News Single */
 .news-single {
-	padding: 60px 0 90px;
+	padding: 20px 0 0px;
 	background: #f8f8f8;
 }
 .news-single .single-main {
@@ -2245,8 +2245,8 @@ body{
 }
 .news-single .meta {
 	overflow: hidden;
-	border-top: 1px solid #ebebeb;
-	border-bottom: 1px solid #ebebeb;
+	border-top: 4px solid rgb(136, 135, 135);
+	border-bottom: 4px solid rgb(136, 135, 135);
 	width: 100%;
 	padding: 10px 0;
 	margin-bottom: 15px;
